@@ -130,6 +130,8 @@ main {
   margin: 0;
   list-style: none;
   padding: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .my-skill {
@@ -152,6 +154,7 @@ main {
   font-family: var(--main-font);
   font-size: 24px;
   margin-top: 50px;
+  
 }
 
 .about-me-section {
